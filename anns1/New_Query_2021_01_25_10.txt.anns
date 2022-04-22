@@ -1,0 +1,451 @@
+是 O
+否 O
+有 O
+职 O
+位 O
+推 O
+荐 O
+ O
+
+你 O
+好 O
+， O
+云 B-Province
+南 E-Province
+曲 B-City
+靖 E-City
+宣 B-District
+威 E-District
+市 O
+有 O
+没 O
+有 O
+职 O
+位 O
+推 O
+荐 O
+ O
+
+你 O
+好 O
+， O
+我 O
+要 O
+找 O
+工 O
+作 O
+。 O
+ O
+
+h O
+e O
+l O
+l O
+h O
+e O
+l O
+l O
+o O
+我 O
+要 O
+找 O
+工 O
+作 O
+ O
+
+我 O
+要 O
+找 O
+工 O
+作 O
+。 O
+ O
+
+我 O
+要 O
+找 O
+工 O
+作 O
+！ O
+ O
+
+哪 O
+位 O
+老 O
+板 O
+我 O
+我 O
+要 O
+找 O
+工 O
+作 O
+。 O
+ O
+
+[ O
+请 O
+转 O
+H O
+R O
+] O
+我 O
+要 O
+找 O
+工 O
+作 O
+ O
+
+我 O
+要 O
+找 O
+工 O
+作 O
+， O
+这 O
+里 O
+还 O
+招 O
+人 O
+么 O
+ O
+
+我 O
+要 O
+找 O
+工 O
+作 O
+0 O
+ O
+
+我 O
+要 O
+找 O
+工 O
+作 O
+ O
+
+你 O
+好 O
+， O
+我 O
+要 O
+找 O
+工 O
+作 O
+ O
+
+您 O
+好 O
+， O
+请 O
+问 O
+人 B-Position
+事 M-Position
+专 M-Position
+员 E-Position
+的 O
+岗 O
+位 O
+还 O
+在 O
+招 O
+聘 O
+吗 O
+ O
+
+请 O
+问 O
+审 B-Position
+计 M-Position
+总 M-Position
+监 E-Position
+的 O
+职 O
+位 O
+还 O
+在 O
+吗 O
+？ O
+ O
+
+北 B-City
+京 E-City
+有 O
+审 B-Position
+计 E-Position
+职 O
+位 O
+吗 O
+ O
+
+你 O
+好 O
+有 O
+在 O
+招 O
+聘 O
+吗 O
+ O
+
+潼 B-District
+南 E-District
+县 O
+中 O
+骏 O
+世 O
+界 O
+城 O
+有 O
+招 O
+聘 O
+的 O
+吗 O
+案 B-Position
+场 M-Position
+客 M-Position
+服 E-Position
+吗 O
+ O
+
+有 O
+什 O
+么 O
+工 O
+作 O
+吗 O
+ O
+
+你 O
+好 O
+请 O
+问 O
+下 O
+招 O
+聘 O
+清 B-Position
+洗 M-Position
+工 M-Position
+程 M-Position
+师 E-Position
+吗 O
+ O
+
+您 O
+好 O
+， O
+请 O
+问 O
+北 B-City
+京 E-City
+的 O
+大 B-Position
+区 M-Position
+经 M-Position
+理 E-Position
+职 O
+位 O
+还 O
+有 O
+吗 O
+？ O
+ O
+
+请 O
+问 O
+贵 O
+公 O
+司 O
+在 O
+上 B-City
+海 E-City
+招 O
+医 B-Position
+药 M-Position
+信 M-Position
+息 M-Position
+代 M-Position
+表 E-Position
+吗 O
+？ O
+福 O
+利 O
+待 O
+遇 O
+如 O
+何 O
+？ O
+ O
+
+您 O
+好 O
+， O
+请 O
+问 O
+南 B-City
+京 E-City
+的 O
+赫 O
+贤 O
+学 O
+校 O
+需 O
+要 O
+招 B-Position
+生 M-Position
+专 M-Position
+员 E-Position
+吗 O
+？ O
+ O
+
+你 O
+好 O
+上 B-City
+海 E-City
+有 O
+些 O
+什 O
+么 O
+机 O
+会 O
+ O
+
+西 B-City
+安 E-City
+区 O
+域 O
+有 O
+招 O
+聘 O
+吗 O
+？ O
+ O
+
+你 O
+好 O
+， O
+请 O
+问 O
+这 O
+边 O
+需 O
+要 O
+招 O
+射 B-Position
+频 M-Position
+工 M-Position
+程 M-Position
+师 E-Position
+嘛 O
+? O
+ O
+
+你 O
+好 O
+， O
+云 B-Province
+南 E-Province
+省 O
+玉 B-City
+溪 E-City
+市 O
+是 O
+否 O
+有 O
+招 O
+聘 O
+呢 O
+？ O
+ O
+
+你 O
+好 O
+. O
+请 O
+问 O
+沈 B-City
+阳 E-City
+的 O
+职 O
+位 O
+还 O
+在 O
+招 O
+聘 O
+吗 O
+？ O
+ O
+
+上 B-City
+海 E-City
+有 O
+研 B-Position
+发 E-Position
+的 O
+岗 O
+位 O
+吗 O
+ O
+
+你 O
+好 O
+， O
+我 O
+是 O
+辉 O
+瑞 O
+的 O
+R O
+P O
+M O
+， O
+请 O
+问 O
+咱 O
+有 O
+郑 B-City
+州 E-City
+的 O
+D B-Position
+M E-Position
+岗 O
+或 O
+R B-Position
+p M-Position
+m E-Position
+岗 O
+吗 O
+？ O
+ O
+
+湘 B-City
+潭 E-City
+有 O
+招 O
+聘 O
+信 O
+息 O
+吗 O
+ O
+
+杭 B-City
+州 E-City
+有 O
+医 B-Position
+药 M-Position
+代 M-Position
+表 E-Position
+在 O
+招 O
+吗 O
+ O
+
+您 O
+好 O
+成 B-City
+都 E-City
+招 O
+聘 O
+信 O
+息 O
+

@@ -1,0 +1,6999 @@
+您 O
+好 O
+请 O
+问 O
+现 O
+在 O
+还 O
+有 O
+销 B-Position
+售 M-Position
+经 M-Position
+理 E-Position
+岗 O
+位 O
+在 O
+校 O
+招 O
+吗 O
+ O
+
+常 B-City
+州 E-City
+地 O
+区 O
+经 O
+理 O
+邮 O
+箱 O
+ O
+
+您 O
+好 O
+， O
+请 O
+问 O
+国 O
+内 O
+租 O
+车 O
+产 B-Position
+品 M-Position
+经 M-Position
+理 E-Position
+还 O
+在 O
+招 O
+么 O
+ O
+
+您 O
+好 O
+， O
+请 O
+问 O
+您 O
+现 O
+在 O
+的 O
+商 B-Position
+务 M-Position
+经 M-Position
+理 E-Position
+职 O
+位 O
+还 O
+在 O
+招 O
+人 O
+吗 O
+ O
+
+您 O
+好 O
+杨 O
+经 O
+理 O
+， O
+现 O
+在 O
+郑 B-City
+州 E-City
+招 O
+聘 O
+吗 O
+？ O
+ O
+
+售 B-Position
+后 M-Position
+工 M-Position
+程 M-Position
+经 M-Position
+理 E-Position
+（ O
+电 O
+子 O
+电 O
+器 O
+） O
+ O
+
+李 O
+经 O
+理 O
+， O
+您 O
+好 O
+！ O
+药 B-Position
+物 M-Position
+警 M-Position
+戒 M-Position
+专 M-Position
+员 E-Position
+的 O
+职 O
+位 O
+是 O
+否 O
+还 O
+需 O
+要 O
+找 O
+人 O
+呢 O
+？ O
+ O
+
+请 O
+问 O
+， O
+贵 O
+公 O
+司 O
+现 O
+在 O
+是 O
+在 O
+招 O
+租 B-Position
+赁 M-Position
+经 M-Position
+理 E-Position
+吗 O
+？ O
+ O
+
+您 O
+好 O
+！ O
+这 O
+个 O
+区 B-Position
+域 M-Position
+经 M-Position
+理 E-Position
+还 O
+在 O
+招 O
+聘 O
+吗 O
+？ O
+ O
+
+请 O
+问 O
+这 O
+个 O
+岗 O
+位 O
+只 O
+招 O
+经 B-Position
+理 E-Position
+么 O
+？ O
+是 O
+否 O
+招 O
+s B-Position
+e M-Position
+n M-Position
+i M-Position
+o M-Position
+r E-Position
+呢 O
+？ O
+ O
+
+只 O
+看 O
+地 B-Position
+区 M-Position
+经 M-Position
+理 E-Position
+以 O
+上 O
+ O
+
+每 O
+个 O
+电 O
+话 O
+我 O
+什 O
+么 O
+地 O
+方 O
+， O
+在 O
+找 O
+投 B-Position
+资 M-Position
+经 M-Position
+理 E-Position
+啊 O
+。 O
+ O
+
+河 B-City
+源 E-City
+还 O
+招 O
+聘 O
+吗 O
+ O
+
+许 O
+经 O
+理 O
+您 O
+好 O
+， O
+不 O
+知 O
+道 O
+蒂 O
+森 O
+这 O
+个 O
+职 O
+位 O
+是 O
+否 O
+还 O
+在 O
+招 O
+聘 O
+， O
+能 O
+了 O
+解 O
+一 O
+下 O
+吗 O
+， O
+谢 O
+谢 O
+ O
+
+你 O
+好 O
+， O
+我 O
+想 O
+面 O
+试 O
+产 B-Department
+品 M-Department
+经 M-Department
+理 E-Department
+ O
+
+想 O
+应 O
+聘 O
+公 B-Department
+关 M-Department
+媒 M-Department
+介 M-Department
+经 M-Department
+理 E-Department
+ O
+
+h O
+m O
+服 O
+装 O
+门 O
+店 O
+ O
+
+你 O
+好 O
+， O
+我 O
+想 O
+知 O
+道 O
+如 O
+何 O
+能 O
+加 O
+入 O
+h O
+m O
+大 O
+家 O
+庭 O
+ O
+
+h O
+m O
+还 O
+要 O
+人 O
+吗 O
+ O
+
+观 O
+澜 O
+湖 O
+的 O
+h O
+m O
+是 O
+不 O
+招 O
+人 O
+了 O
+吗 O
+？ O
+ O
+
+餐 B-Department
+厅 M-Department
+服 M-Department
+务 M-Department
+员 E-Department
+还 O
+招 O
+不 O
+ O
+
+有 O
+没 O
+有 O
+东 B-City
+莞 E-City
+的 O
+ O
+
+这 O
+个 O
+岗 O
+位 O
+是 O
+正 O
+式 O
+岗 O
+吗 O
+？ O
+ O
+
+请 O
+问 O
+这 O
+个 O
+岗 O
+位 O
+是 O
+属 O
+于 O
+旅 B-Position
+游 M-Position
+销 M-Position
+售 E-Position
+吗 O
+ O
+
+希 O
+望 O
+能 O
+在 O
+h O
+m O
+得 O
+到 O
+锻 O
+炼 O
+自 O
+己 O
+的 O
+机 O
+会 O
+ O
+
+就 O
+是 O
+环 O
+球 O
+港 O
+的 O
+h O
+m O
+ O
+
+请 O
+问 O
+您 O
+这 O
+边 O
+现 O
+在 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+最 O
+近 O
+哪 O
+个 O
+工 O
+序 O
+在 O
+招 O
+工 O
+ O
+
+上 O
+午 O
+好 O
+！ O
+了 O
+解 O
+下 O
+， O
+有 O
+招 O
+公 O
+司 O
+类 O
+客 B-Position
+户 M-Position
+经 M-Position
+理 E-Position
+或 O
+主 B-Position
+管 E-Position
+吗 O
+？ O
+ O
+
+我 O
+想 O
+应 O
+聘 O
+s O
+a O
+p O
+f O
+i O
+c O
+o O
+项 B-Position
+目 M-Position
+经 M-Position
+理 E-Position
+ O
+
+市 B-Position
+场 M-Position
+经 M-Position
+理 E-Position
+或 O
+策 B-Position
+划 M-Position
+经 M-Position
+理 E-Position
+ O
+
+常 B-Position
+务 M-Position
+副 M-Position
+总 M-Position
+经 M-Position
+理 E-Position
+ O
+
+你 O
+好 O
+， O
+请 O
+问 O
+现 O
+在 O
+有 O
+什 O
+么 O
+非 O
+销 O
+售 O
+类 O
+的 O
+岗 O
+位 O
+ O
+
+您 O
+好 O
+， O
+请 O
+问 O
+机 O
+械 O
+类 O
+本 O
+科 O
+有 O
+什 O
+么 O
+相 O
+关 O
+岗 O
+位 O
+吗 O
+ O
+
+管 B-Position
+理 E-Position
+类 O
+岗 O
+位 O
+ O
+
+您 O
+好 O
+， O
+请 O
+问 O
+公 O
+司 O
+目 O
+前 O
+招 O
+聘 O
+的 O
+职 O
+位 O
+有 O
+销 B-Position
+售 E-Position
+类 O
+， O
+运 B-Position
+营 E-Position
+类 O
+， O
+培 B-Position
+训 E-Position
+类 O
+的 O
+岗 O
+位 O
+吗 O
+？ O
+我 O
+刚 O
+离 O
+职 O
+， O
+正 O
+在 O
+找 O
+工 O
+作 O
+， O
+方 O
+便 O
+请 O
+您 O
+加 O
+下 O
+我 O
+微 O
+信 O
+1 O
+8 O
+6 O
+1 O
+0 O
+0 O
+2 O
+0 O
+8 O
+2 O
+1 O
+， O
+我 O
+把 O
+我 O
+简 O
+历 O
+给 O
+您 O
+看 O
+看 O
+， O
+谢 O
+谢 O
+ O
+
+C B-Position
+E M-Position
+O E-Position
+的 O
+职 O
+位 O
+有 O
+吗 O
+ O
+
+你 O
+好 O
+， O
+请 O
+问 O
+你 O
+们 O
+现 O
+在 O
+质 B-Position
+量 E-Position
+类 O
+的 O
+岗 O
+位 O
+还 O
+在 O
+招 O
+人 O
+吗 O
+ O
+
+不 O
+知 O
+道 O
+贵 O
+公 O
+司 O
+区 B-Position
+域 M-Position
+经 M-Position
+理 E-Position
+岗 O
+位 O
+是 O
+否 O
+还 O
+招 O
+聘 O
+人 O
+员 O
+ O
+
+贵 O
+公 O
+司 O
+招 O
+行 B-Position
+政 E-Position
+岗 O
+位 O
+或 O
+者 O
+公 O
+司 O
+业 O
+务 O
+， O
+个 O
+人 O
+业 O
+务 O
+客 B-Position
+户 M-Position
+经 M-Position
+理 E-Position
+么 O
+？ O
+ O
+
+市 B-Position
+场 M-Position
+销 M-Position
+售 E-Position
+类 O
+ O
+
+您 O
+好 O
+& O
+n O
+b O
+s O
+p O
+; O
+请 O
+问 O
+还 O
+招 O
+人 O
+吗 O
+～ O
+ O
+
+你 O
+好 O
+此 O
+职 O
+位 O
+还 O
+需 O
+要 O
+人 O
+员 O
+吗 O
+？ O
+ O
+
+营 B-Position
+销 M-Position
+经 M-Position
+理 E-Position
+ O
+
+餐 B-Position
+厅 M-Position
+总 M-Position
+经 M-Position
+理 E-Position
+ O
+
+请 O
+问 O
+贵 O
+公 O
+司 O
+广 B-Province
+东 E-Province
+地 O
+区 O
+有 O
+渠 B-Position
+道 M-Position
+销 M-Position
+售 E-Position
+类 O
+岗 O
+位 O
+吗 O
+ O
+
+店 B-Position
+门 M-Position
+经 M-Position
+理 E-Position
+ O
+
+集 B-Position
+团 M-Position
+策 M-Position
+划 M-Position
+经 M-Position
+理 E-Position
+ O
+
+电 O
+子 O
+渠 O
+道 O
+， O
+项 B-Position
+目 M-Position
+经 M-Position
+理 E-Position
+， O
+信 O
+用 O
+卡 O
+业 O
+务 O
+ O
+
+您 O
+好 O
+， O
+想 O
+问 O
+一 O
+下 O
+s O
+t O
+r O
+a O
+t O
+e O
+g O
+y O
+的 O
+c B-Position
+o M-Position
+n M-Position
+s M-Position
+u M-Position
+l M-Position
+t M-Position
+a M-Position
+n M-Position
+t E-Position
+的 O
+职 O
+位 O
+已 O
+经 O
+招 O
+满 O
+了 O
+吗 O
+ O
+
+请 O
+问 O
+有 O
+外 O
+聘 O
+店 B-Position
+经 M-Position
+理 E-Position
+吗 O
+？ O
+ O
+
+你 O
+好 O
+， O
+你 O
+们 O
+这 O
+边 O
+有 O
+没 O
+有 O
+招 O
+聘 O
+大 B-Position
+机 M-Position
+组 E-Position
+这 O
+类 O
+的 O
+岗 O
+位 O
+？ O
+ O
+
+你 O
+好 O
+你 O
+们 O
+目 O
+前 O
+招 O
+聘 O
+店 B-Position
+经 M-Position
+理 E-Position
+吗 O
+ O
+
+想 O
+投 O
+递 O
+公 O
+司 O
+销 B-Position
+售 M-Position
+经 M-Position
+理 E-Position
+职 O
+位 O
+ O
+
+你 O
+好 O
+， O
+在 O
+吗 O
+？ O
+智 O
+慧 O
+教 O
+育 O
+高 B-Position
+级 M-Position
+培 M-Position
+训 M-Position
+经 M-Position
+理 E-Position
+这 O
+个 O
+岗 O
+位 O
+最 O
+近 O
+在 O
+招 O
+人 O
+吗 O
+ O
+
+行 B-Position
+政 M-Position
+管 M-Position
+家 E-Position
+ O
+
+有 O
+社 O
+招 O
+审 B-Position
+计 M-Position
+经 M-Position
+理 E-Position
+职 O
+位 O
+吗 O
+ O
+
+Q B-Position
+M M-Position
+S M-Position
+审 M-Position
+核 M-Position
+员 E-Position
+需 O
+要 O
+吗 O
+ O
+
+测 B-Position
+试 M-Position
+开 M-Position
+发 E-Position
+ O
+
+您 O
+好 O
+， O
+贵 O
+公 O
+司 O
+西 B-City
+安 E-City
+这 O
+块 O
+需 O
+要 O
+安 B-Position
+装 M-Position
+工 M-Position
+程 M-Position
+师 E-Position
+吗 O
+ O
+
+有 O
+工 B-Position
+人 E-Position
+招 O
+聘 O
+信 O
+息 O
+么 O
+ O
+
+渗 B-Position
+透 M-Position
+测 M-Position
+试 E-Position
+ O
+
+应 O
+聘 O
+安 B-Position
+装 M-Position
+专 M-Position
+员 E-Position
+ O
+
+是 O
+的 O
+销 B-Position
+售 E-Position
+岗 O
+位 O
+ O
+
+销 B-Position
+售 E-Position
+电 O
+话 O
+ O
+
+因 O
+为 O
+不 O
+想 O
+太 O
+安 O
+淡 O
+的 O
+每 O
+月 O
+就 O
+死 O
+薪 O
+资 O
+拿 O
+拿 O
+， O
+想 O
+挑 O
+战 O
+销 B-Position
+售 E-Position
+类 O
+的 O
+工 O
+作 O
+ O
+
+请 O
+问 O
+招 O
+财 B-Position
+务 E-Position
+吗 O
+ O
+
+信 B-Position
+息 M-Position
+技 M-Position
+术 M-Position
+管 M-Position
+理 E-Position
+部 O
+ O
+
+深 B-City
+圳 E-City
+的 O
+吗 O
+ O
+
+贵 B-City
+阳 E-City
+， O
+上 B-City
+海 E-City
+ O
+
+我 O
+想 O
+申 O
+请 O
+h O
+m O
+职 O
+员 O
+ O
+
+销 B-Position
+售 M-Position
+支 M-Position
+持 E-Position
+类 O
+ O
+
+店 O
+长 O
+、 O
+楼 B-Position
+层 M-Position
+经 M-Position
+理 E-Position
+ O
+
+企 B-Position
+业 M-Position
+银 M-Position
+行 M-Position
+客 M-Position
+户 M-Position
+经 M-Position
+理 E-Position
+ O
+
+文 B-Position
+职 E-Position
+类 O
+ O
+
+校 B-Position
+园 M-Position
+大 M-Position
+使 E-Position
+之 O
+类 O
+的 O
+？ O
+ O
+
+销 B-Position
+售 E-Position
+类 O
+工 O
+作 O
+ O
+
+你 O
+好 O
+我 O
+想 O
+了 O
+解 O
+一 O
+下 O
+H O
+M O
+职 O
+位 O
+应 O
+聘 O
+ O
+
+你 O
+好 O
+现 O
+在 O
+乐 O
+宾 O
+百 O
+货 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+人 B-Position
+事 E-Position
+， O
+文 B-Position
+员 E-Position
+， O
+销 B-Position
+售 E-Position
+ O
+
+没 O
+有 O
+工 O
+作 O
+经 O
+验 O
+， O
+但 O
+希 O
+望 O
+以 O
+后 O
+做 O
+产 B-Position
+品 M-Position
+经 M-Position
+理 E-Position
+的 O
+岗 O
+位 O
+， O
+有 O
+没 O
+有 O
+类 O
+学 O
+徒 O
+一 O
+样 O
+的 O
+岗 O
+位 O
+， O
+可 O
+以 O
+不 O
+要 O
+工 O
+资 O
+！ O
+ O
+
+行 B-Position
+业 M-Position
+渠 M-Position
+道 M-Position
+销 M-Position
+售 M-Position
+经 M-Position
+理 E-Position
+ O
+
+土 B-Position
+建 M-Position
+经 M-Position
+理 E-Position
+ O
+
+对 B-Position
+公 M-Position
+客 M-Position
+服 M-Position
+经 M-Position
+理 E-Position
+ O
+
+研 B-Position
+发 M-Position
+经 M-Position
+理 E-Position
+ O
+
+请 O
+问 O
+你 O
+们 O
+粤 B-Position
+语 M-Position
+客 M-Position
+户 M-Position
+支 M-Position
+持 M-Position
+专 M-Position
+员 E-Position
+还 O
+招 O
+人 O
+吗 O
+ O
+
+项 B-Position
+目 M-Position
+经 M-Position
+理 E-Position
+职 O
+位 O
+有 O
+吗 O
+ O
+
+招 O
+F B-Position
+C E-Position
+吗 O
+ O
+
+市 B-Position
+场 E-Position
+， O
+营 B-Position
+运 E-Position
+ O
+
+审 B-Position
+计 E-Position
+部 O
+门 O
+ O
+
+求 O
+职 O
+c B-Position
+r M-Position
+a E-Position
+职 O
+位 O
+ O
+
+你 O
+好 O
+我 O
+想 O
+应 O
+聘 O
+行 B-Position
+政 E-Position
+岗 O
+位 O
+ O
+
+邯 B-City
+郸 E-City
+有 O
+嘛 O
+ O
+
+总 B-Position
+经 M-Position
+理 M-Position
+助 M-Position
+理 E-Position
+ O
+
+请 O
+问 O
+有 O
+运 B-Position
+行 E-Position
+类 O
+的 O
+吗 O
+ O
+
+信 B-Position
+用 M-Position
+卡 M-Position
+团 M-Position
+队 M-Position
+经 M-Position
+理 E-Position
+ O
+
+售 B-Position
+货 M-Position
+员 E-Position
+销 B-Position
+售 M-Position
+经 M-Position
+理 E-Position
+安 B-Position
+检 E-Position
+ O
+
+我 O
+想 O
+咨 O
+询 O
+一 O
+下 O
+销 B-Position
+售 E-Position
+类 O
+的 O
+岗 O
+位 O
+情 O
+况 O
+ O
+
+管 B-Position
+理 E-Position
+类 O
+的 O
+ O
+
+安 B-Position
+装 M-Position
+监 M-Position
+督 E-Position
+ O
+
+高 B-Position
+级 M-Position
+软 M-Position
+件 M-Position
+测 M-Position
+试 M-Position
+工 M-Position
+程 M-Position
+师 E-Position
+ O
+
+中 B-Position
+餐 M-Position
+厨 M-Position
+师 M-Position
+长 E-Position
+ O
+
+您 O
+好 O
+请 O
+问 O
+这 O
+个 O
+职 O
+位 O
+还 O
+在 O
+招 O
+聘 O
+么 O
+？ O
+ O
+
+中 B-Position
+餐 M-Position
+行 M-Position
+政 M-Position
+总 M-Position
+厨 E-Position
+ O
+
+西 B-Province
+藏 E-Province
+， O
+成 B-City
+都 E-City
+ O
+
+布 O
+吉 O
+招 O
+B O
+C O
+类 O
+业 B-Position
+务 M-Position
+代 M-Position
+表 E-Position
+ O
+
+上 B-City
+海 E-City
+长 O
+泰 O
+ O
+
+你 O
+好 O
+， O
+打 O
+扰 O
+了 O
+！ O
+ O
+
+请 O
+问 O
+这 O
+个 O
+职 O
+位 O
+还 O
+在 O
+招 O
+人 O
+么 O
+？ O
+ O
+
+上 B-City
+海 E-City
+， O
+北 B-City
+京 E-City
+， O
+香 B-City
+港 E-City
+ O
+
+你 O
+好 O
+， O
+请 O
+问 O
+春 O
+熙 O
+路 O
+铭 O
+太 O
+广 O
+场 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+请 O
+问 O
+有 O
+地 O
+铁 O
+公 O
+司 O
+的 O
+招 O
+聘 O
+信 O
+息 O
+吗 O
+ O
+
+电 B-Position
+器 M-Position
+工 M-Position
+程 M-Position
+师 E-Position
+ O
+
+经 B-Position
+营 M-Position
+性 M-Position
+物 M-Position
+业 M-Position
+贷 E-Position
+ O
+
+请 O
+给 O
+我 O
+推 O
+送 O
+经 B-Position
+理 E-Position
+岗 O
+位 O
+ O
+
+你 O
+好 O
+， O
+请 O
+问 O
+V B-Position
+P M-Position
+  M-Position
+c M-Position
+r M-Position
+e M-Position
+d M-Position
+i M-Position
+t M-Position
+  M-Position
+c M-Position
+o M-Position
+n M-Position
+t M-Position
+r M-Position
+o M-Position
+l M-Position
+  M-Position
+s M-Position
+e M-Position
+r M-Position
+v M-Position
+i M-Position
+c M-Position
+e E-Position
+这 O
+个 O
+职 O
+位 O
+现 O
+在 O
+还 O
+在 O
+招 O
+聘 O
+吗 O
+？ O
+谢 O
+谢 O
+ O
+
+您 O
+好 O
+， O
+请 O
+问 O
+S B-Position
+a M-Position
+l M-Position
+e M-Position
+s M-Position
+  M-Position
+C M-Position
+o M-Position
+n M-Position
+t M-Position
+r M-Position
+a M-Position
+c M-Position
+t M-Position
+  M-Position
+M M-Position
+a M-Position
+n M-Position
+a M-Position
+g M-Position
+e M-Position
+m M-Position
+e M-Position
+n M-Position
+t E-Position
+岗 O
+位 O
+现 O
+在 O
+还 O
+在 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+请 O
+问 O
+贵 O
+司 O
+还 O
+招 O
+聘 O
+总 B-Position
+经 M-Position
+理 E-Position
+么 O
+ O
+
+请 O
+问 O
+G B-Position
+C M-Position
+  M-Position
+F M-Position
+M E-Position
+的 O
+职 O
+位 O
+还 O
+在 O
+招 O
+吗 O
+？ O
+ O
+
+请 O
+问 O
+还 O
+在 O
+招 O
+聘 O
+财 B-Position
+务 M-Position
+经 M-Position
+理 E-Position
+吗 O
+ O
+
+有 O
+没 O
+有 O
+在 O
+招 O
+烘 B-Position
+焙 E-Position
+ O
+
+我 O
+今 O
+年 O
+五 O
+十 O
+多 O
+岁 O
+， O
+看 O
+看 O
+能 O
+做 O
+什 O
+么 O
+ O
+
+请 O
+问 O
+有 O
+在 O
+招 O
+聘 O
+销 B-Position
+售 E-Position
+吗 O
+ O
+
+申 O
+请 O
+加 O
+入 O
+h O
+m O
+ O
+
+你 O
+们 O
+招 O
+学 B-Position
+徒 E-Position
+吗 O
+ O
+
+你 O
+们 O
+现 O
+在 O
+商 B-Position
+务 M-Position
+经 M-Position
+理 E-Position
+位 O
+置 O
+还 O
+空 O
+缺 O
+吗 O
+？ O
+ O
+
+你 O
+好 O
+， O
+M O
+i O
+r O
+r O
+o O
+r O
+ O
+
+请 O
+问 O
+这 O
+个 O
+岗 O
+位 O
+还 O
+在 O
+招 O
+聘 O
+么 O
+？ O
+ O
+
+长 O
+泰 O
+广 O
+场 O
+店 O
+ O
+
+你 O
+好 O
+， O
+还 O
+有 O
+适 O
+合 O
+的 O
+楼 O
+盘 O
+推 O
+荐 O
+吗 O
+， O
+有 O
+住 O
+宿 O
+的 O
+， O
+我 O
+面 O
+试 O
+了 O
+两 O
+个 O
+觉 O
+得 O
+不 O
+是 O
+很 O
+理 O
+想 O
+， O
+但 O
+是 O
+还 O
+是 O
+坚 O
+持 O
+找 O
+中 O
+原 O
+的 O
+ O
+
+本 O
+岗 O
+位 O
+目 O
+前 O
+正 O
+在 O
+招 O
+聘 O
+吗 O
+ O
+
+就 O
+泰 O
+华 O
+店 O
+的 O
+ O
+
+现 O
+在 O
+还 O
+在 O
+招 O
+。 O
+一 B-Position
+线 M-Position
+操 M-Position
+作 M-Position
+工 E-Position
+吗 O
+。 O
+请 O
+问 O
+ O
+
+你 O
+好 O
+， O
+请 O
+问 O
+贵 O
+公 O
+司 O
+还 O
+招 O
+策 B-Position
+划 M-Position
+主 M-Position
+任 E-Position
+吗 O
+？ O
+ O
+
+我 O
+想 O
+在 O
+广 B-City
+州 E-City
+增 B-District
+城 E-District
+ O
+
+实 O
+体 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+请 O
+问 O
+一 O
+下 O
+贵 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+你 O
+好 O
+， O
+请 O
+问 O
+你 O
+们 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+你 O
+好 O
+请 O
+问 O
+你 O
+们 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+现 O
+在 O
+这 O
+边 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+打 O
+扰 O
+了 O
+。 O
+请 O
+问 O
+南 B-City
+京 E-City
+赫 O
+贤 O
+后 O
+面 O
+还 O
+有 O
+内 B-Position
+容 M-Position
+营 M-Position
+销 E-Position
+或 O
+者 O
+新 B-Position
+闻 M-Position
+宣 M-Position
+传 E-Position
+的 O
+岗 O
+位 O
+吗 O
+？ O
+ O
+
+你 O
+好 O
+， O
+公 O
+司 O
+有 O
+招 O
+业 B-Position
+务 E-Position
+方 O
+面 O
+工 O
+作 O
+么 O
+？ O
+ O
+
+请 O
+问 O
+运 B-Position
+营 M-Position
+管 M-Position
+理 E-Position
+岗 O
+有 O
+招 O
+聘 O
+吗 O
+ O
+
+你 O
+好 O
+！ O
+请 O
+问 O
+贵 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+你 O
+好 O
+， O
+咱 O
+们 O
+门 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+你 O
+好 O
+请 O
+问 O
+优 O
+品 O
+道 O
+广 O
+场 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+请 O
+问 O
+， O
+西 O
+城 O
+时 O
+代 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+你 O
+好 O
+， O
+请 O
+问 O
+西 B-District
+咸 E-District
+新 O
+区 O
+万 O
+象 O
+城 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+你 O
+们 O
+要 O
+坐 B-Position
+椅 M-Position
+组 M-Position
+装 M-Position
+工 E-Position
+吗 O
+ O
+
+咨 O
+询 O
+销 B-Position
+售 M-Position
+经 M-Position
+理 E-Position
+岗 O
+位 O
+ O
+
+您 O
+好 O
+， O
+我 O
+对 O
+贵 O
+司 O
+c B-Position
+# M-Position
+开 M-Position
+发 M-Position
+工 M-Position
+程 M-Position
+师 E-Position
+岗 O
+位 O
+有 O
+浓 O
+厚 O
+兴 O
+趣 O
+， O
+方 O
+便 O
+聊 O
+一 O
+下 O
+吗 O
+ O
+
+还 O
+有 O
+其 O
+他 O
+销 O
+售 O
+岗 O
+位 O
+吗 O
+？ O
+ O
+
+想 O
+咨 O
+询 O
+这 O
+个 O
+岗 O
+位 O
+目 O
+前 O
+招 O
+到 O
+人 O
+了 O
+吗 O
+？ O
+ O
+
+没 O
+有 O
+财 O
+务 O
+相 O
+关 O
+的 O
+吗 O
+ O
+
+你 O
+好 O
+， O
+请 O
+问 O
+贵 O
+公 O
+司 O
+招 O
+有 O
+没 O
+有 O
+实 B-Position
+车 M-Position
+底 M-Position
+盘 M-Position
+调 M-Position
+教 M-Position
+驾 M-Position
+驶 M-Position
+员 E-Position
+的 O
+岗 O
+位 O
+？ O
+ O
+
+盛 O
+虹 O
+石 O
+化 O
+目 O
+前 O
+在 O
+招 O
+聘 O
+什 O
+么 O
+岗 O
+位 O
+。 O
+ O
+
+电 B-Position
+工 E-Position
+， O
+消 B-Position
+防 M-Position
+技 M-Position
+工 E-Position
+招 O
+ O
+
+新 B-Position
+房 M-Position
+主 M-Position
+管 E-Position
+ O
+
+销 B-Position
+售 M-Position
+副 M-Position
+经 M-Position
+理 E-Position
+ O
+
+我 O
+想 O
+面 O
+试 O
+质 B-Position
+量 M-Position
+检 M-Position
+测 E-Position
+这 O
+个 O
+职 O
+位 O
+ O
+
+化 B-Position
+妆 M-Position
+品 M-Position
+销 M-Position
+售 E-Position
+ O
+
+热 B-Position
+处 M-Position
+理 M-Position
+工 M-Position
+程 M-Position
+师 E-Position
+ O
+
+维 B-Position
+修 E-Position
+， O
+保 B-Position
+养 E-Position
+ O
+
+食 B-Position
+品 M-Position
+技 M-Position
+术 M-Position
+专 M-Position
+家 E-Position
+ O
+
+协 B-Position
+调 M-Position
+员 E-Position
+ O
+
+技 B-Position
+术 E-Position
+部 O
+门 O
+ O
+
+店 B-Position
+面 M-Position
+销 M-Position
+售 E-Position
+介 O
+绍 O
+ O
+
+请 O
+问 O
+， O
+l B-Position
+e M-Position
+a M-Position
+d M-Position
+  M-Position
+s M-Position
+u M-Position
+p M-Position
+p M-Position
+l M-Position
+i M-Position
+e M-Position
+r M-Position
+  M-Position
+c M-Position
+h M-Position
+a M-Position
+i M-Position
+n M-Position
+  M-Position
+q M-Position
+u M-Position
+a M-Position
+l M-Position
+i M-Position
+t M-Position
+y M-Position
+  M-Position
+m M-Position
+a M-Position
+n M-Position
+a M-Position
+g M-Position
+e M-Position
+m M-Position
+e M-Position
+n M-Position
+t E-Position
+岗 O
+位 O
+再 O
+招 O
+吗 O
+？ O
+ O
+
+最 O
+近 O
+造 B-Position
+纸 M-Position
+设 M-Position
+备 M-Position
+服 M-Position
+务 E-Position
+或 O
+技 B-Position
+术 M-Position
+支 M-Position
+持 E-Position
+类 O
+岗 O
+位 O
+在 O
+招 O
+吗 O
+？ O
+ O
+
+请 O
+问 O
+有 O
+关 O
+于 O
+环 B-Position
+保 E-Position
+类 O
+的 O
+工 O
+作 O
+岗 O
+位 O
+吗 O
+ O
+
+您 O
+好 O
+请 O
+问 O
+贵 O
+司 O
+是 O
+否 O
+有 O
+关 O
+于 O
+风 B-Position
+险 M-Position
+管 M-Position
+理 E-Position
+类 O
+的 O
+职 O
+能 O
+？ O
+ O
+
+你 O
+好 O
+， O
+有 O
+平 B-Position
+面 M-Position
+设 M-Position
+计 E-Position
+类 O
+的 O
+工 O
+作 O
+吗 O
+？ O
+ O
+
+运 B-Position
+营 E-Position
+类 O
+ O
+
+环 B-Position
+境 M-Position
+绿 M-Position
+化 E-Position
+类 O
+的 O
+工 O
+作 O
+有 O
+吗 O
+ O
+
+需 O
+要 O
+签 O
+合 O
+同 O
+之 O
+类 O
+的 O
+吗 O
+ O
+
+您 O
+好 O
+， O
+想 O
+请 O
+教 O
+一 O
+下 O
+贵 O
+司 O
+上 O
+周 O
+发 O
+的 O
+C O
+G O
+E O
+M O
+团 O
+队 O
+招 O
+聘 O
+具 O
+体 O
+是 O
+哪 O
+个 O
+职 O
+位 O
+呢 O
+？ O
+我 O
+在 O
+社 O
+招 O
+l O
+i O
+s O
+t O
+里 O
+没 O
+有 O
+找 O
+到 O
+类 O
+似 O
+职 O
+位 O
+。 O
+ O
+
+有 O
+设 B-Position
+计 E-Position
+类 O
+的 O
+吗 O
+ O
+
+我 O
+本 O
+来 O
+被 O
+录 O
+为 O
+中 O
+科 O
+院 O
+的 O
+直 O
+博 O
+生 O
+， O
+但 O
+是 O
+在 O
+我 O
+这 O
+么 O
+多 O
+的 O
+r O
+e O
+s O
+e O
+a O
+r O
+c O
+h O
+的 O
+经 O
+历 O
+中 O
+， O
+我 O
+还 O
+是 O
+觉 O
+得 O
+单 O
+纯 O
+的 O
+r O
+e O
+s O
+e O
+a O
+r O
+c O
+h O
+不 O
+适 O
+合 O
+我 O
+， O
+我 O
+更 O
+想 O
+接 O
+触 O
+管 B-Position
+理 M-Position
+咨 M-Position
+询 E-Position
+类 O
+的 O
+工 O
+作 O
+。 O
+ O
+
+我 O
+问 O
+的 O
+是 O
+医 B-Position
+学 E-Position
+类 O
+职 O
+位 O
+ O
+
+行 B-Position
+政 E-Position
+和 O
+管 B-Position
+理 E-Position
+类 O
+ O
+
+目 O
+前 O
+求 O
+职 O
+岗 O
+位 O
+意 O
+向 O
+： O
+行 B-Position
+政 E-Position
+类 O
+和 O
+部 B-Position
+门 M-Position
+助 M-Position
+理 E-Position
+岗 O
+位 O
+。 O
+谢 O
+谢 O
+ O
+
+请 O
+问 O
+有 O
+适 O
+合 O
+语 O
+言 O
+类 O
+专 O
+业 O
+学 O
+生 O
+申 O
+请 O
+的 O
+工 O
+作 O
+吗 O
+ O
+
+风 B-Position
+险 M-Position
+控 M-Position
+制 E-Position
+类 O
+或 O
+运 B-Position
+营 M-Position
+操 M-Position
+作 E-Position
+类 O
+ O
+
+电 B-Position
+子 M-Position
+设 M-Position
+计 E-Position
+类 O
+ O
+
+下 O
+午 O
+好 O
+? O
+请 O
+问 O
+研 B-Position
+发 E-Position
+类 O
+的 O
+岗 O
+位 O
+具 O
+体 O
+有 O
+哪 O
+几 O
+个 O
+ O
+
+您 O
+好 O
+， O
+我 O
+想 O
+问 O
+问 O
+看 O
+贵 O
+司 O
+有 O
+在 O
+招 O
+聘 O
+营 B-Position
+销 M-Position
+经 M-Position
+理 E-Position
+类 O
+的 O
+岗 O
+位 O
+吗 O
+？ O
+ O
+
+我 O
+想 O
+咨 O
+询 O
+一 O
+下 O
+贵 O
+公 O
+司 O
+销 B-Position
+售 E-Position
+类 O
+的 O
+岗 O
+位 O
+情 O
+况 O
+ O
+
+你 O
+好 O
+， O
+请 O
+问 O
+有 O
+金 B-Position
+融 M-Position
+投 M-Position
+资 M-Position
+顾 M-Position
+问 E-Position
+类 O
+的 O
+岗 O
+位 O
+吗 O
+ O
+
+有 O
+平 B-Position
+面 M-Position
+设 M-Position
+计 E-Position
+类 O
+的 O
+岗 O
+位 O
+吗 O
+ O
+
+您 O
+好 O
+， O
+我 O
+是 O
+做 O
+人 B-Position
+力 M-Position
+资 M-Position
+源 E-Position
+的 O
+， O
+请 O
+问 O
+您 O
+这 O
+边 O
+人 B-Position
+力 M-Position
+资 M-Position
+源 E-Position
+这 O
+类 O
+的 O
+岗 O
+位 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+你 O
+好 O
+， O
+请 O
+问 O
+贵 O
+公 O
+司 O
+有 O
+招 O
+聘 O
+全 B-Category
+职 E-Category
+的 O
+光 B-Position
+学 E-Position
+类 O
+的 O
+岗 O
+位 O
+吗 O
+？ O
+ O
+
+我 O
+想 O
+问 O
+一 O
+下 O
+关 O
+于 O
+售 B-Position
+后 M-Position
+服 M-Position
+务 M-Position
+人 M-Position
+员 E-Position
+招 O
+聘 O
+的 O
+问 O
+题 O
+ O
+
+请 O
+问 O
+一 O
+下 O
+M O
+豆 O
+经 O
+销 O
+商 O
+ O
+
+视 B-Position
+频 M-Position
+传 M-Position
+媒 E-Position
+ O
+
+实 B-Position
+验 M-Position
+室 E-Position
+职 O
+位 O
+ O
+
+你 O
+好 O
+， O
+请 O
+问 O
+现 O
+在 O
+还 O
+有 O
+正 O
+在 O
+招 O
+聘 O
+的 O
+岗 O
+位 O
+吗 O
+ O
+
+您 O
+好 O
+， O
+请 O
+问 O
+一 O
+下 O
+H O
+M O
+还 O
+招 O
+聘 O
+吗 O
+ O
+
+我 O
+想 O
+问 O
+， O
+这 O
+个 O
+职 O
+位 O
+还 O
+需 O
+要 O
+招 O
+人 O
+吗 O
+ O
+
+S B-Position
+M M-Position
+T M-Position
+技 M-Position
+术 M-Position
+员 E-Position
+ O
+
+没 O
+看 O
+到 O
+招 O
+聘 O
+现 B-Position
+场 M-Position
+施 M-Position
+工 E-Position
+的 O
+， O
+都 O
+是 O
+房 B-Position
+产 M-Position
+销 M-Position
+售 E-Position
+类 O
+的 O
+！ O
+ O
+
+社 O
+保 O
+公 O
+积 O
+金 O
+方 O
+向 O
+的 O
+人 B-Position
+事 M-Position
+专 M-Position
+员 E-Position
+现 O
+在 O
+还 O
+在 O
+招 O
+吗 O
+ O
+
+请 O
+问 O
+有 O
+招 O
+销 B-Position
+管 E-Position
+吗 O
+ O
+
+什 O
+么 O
+职 O
+位 O
+招 O
+人 O
+呢 O
+？ O
+ O
+
+关 O
+于 O
+招 O
+聘 O
+入 O
+职 O
+ O
+
+你 O
+这 O
+个 O
+市 B-Position
+场 M-Position
+拓 M-Position
+展 M-Position
+经 M-Position
+理 E-Position
+， O
+已 O
+经 O
+招 O
+聘 O
+了 O
+几 O
+个 O
+月 O
+， O
+为 O
+啥 O
+还 O
+没 O
+到 O
+位 O
+？ O
+ O
+
+有 O
+地 B-Position
+区 M-Position
+经 M-Position
+理 E-Position
+招 O
+聘 O
+吗 O
+？ O
+ O
+
+王 O
+经 O
+理 O
+， O
+您 O
+好 O
+! O
+问 O
+下 O
+水 B-Position
+工 M-Position
+艺 M-Position
+工 M-Position
+程 M-Position
+师 E-Position
+还 O
+招 O
+聘 O
+吗 O
+？ O
+谢 O
+谢 O
+！ O
+ O
+
+你 O
+好 O
+， O
+请 O
+问 O
+贵 O
+公 O
+司 O
+有 O
+市 B-Position
+场 M-Position
+销 M-Position
+售 E-Position
+类 O
+职 O
+位 O
+吗 O
+？ O
+ O
+
+招 B-Position
+商 M-Position
+管 M-Position
+理 E-Position
+ O
+
+请 O
+问 O
+还 O
+招 O
+前 B-Position
+端 E-Position
+吗 O
+ O
+
+你 O
+好 O
+， O
+想 O
+问 O
+一 O
+下 O
+兰 O
+蔻 O
+美 B-Position
+容 M-Position
+顾 M-Position
+问 E-Position
+这 O
+个 O
+岗 O
+位 O
+还 O
+有 O
+在 O
+招 O
+人 O
+吗 O
+ O
+
+售 B-Position
+后 M-Position
+服 M-Position
+务 M-Position
+销 M-Position
+售 M-Position
+经 M-Position
+理 E-Position
+ O
+
+保 B-Position
+修 M-Position
+经 M-Position
+理 E-Position
+ O
+
+装 B-Position
+修 M-Position
+经 M-Position
+理 M-Position
+工 M-Position
+程 M-Position
+师 E-Position
+ O
+
+大 B-Position
+客 M-Position
+户 M-Position
+经 M-Position
+理 E-Position
+或 O
+r B-Position
+p M-Position
+m E-Position
+ O
+
+经 B-Position
+营 M-Position
+经 M-Position
+理 E-Position
+ O
+
+产 B-Position
+品 M-Position
+经 M-Position
+理 E-Position
+活 B-Position
+动 M-Position
+策 M-Position
+划 E-Position
+创 B-Position
+客 M-Position
+老 M-Position
+师 E-Position
+ O
+
+再 O
+任 O
+餐 B-Position
+厅 M-Position
+经 M-Position
+理 E-Position
+ O
+
+区 B-Position
+域 M-Position
+销 M-Position
+售 M-Position
+经 M-Position
+理 E-Position
+， O
+区 B-Position
+域 M-Position
+销 M-Position
+售 M-Position
+主 M-Position
+管 E-Position
+， O
+渠 B-Position
+道 M-Position
+销 M-Position
+售 E-Position
+， O
+大 B-Position
+客 M-Position
+户 M-Position
+销 M-Position
+售 E-Position
+， O
+销 B-Position
+售 M-Position
+代 M-Position
+表 E-Position
+ O
+
+餐 O
+厅 O
+见 B-Position
+习 M-Position
+经 M-Position
+理 E-Position
+ O
+
+餐 O
+厅 O
+部 B-Position
+门 M-Position
+经 M-Position
+理 E-Position
+ O
+
+记 O
+时 O
+值 B-Position
+班 M-Position
+经 M-Position
+理 E-Position
+ O
+
+有 O
+医 B-Position
+学 M-Position
+经 M-Position
+理 E-Position
+的 O
+职 O
+位 O
+吗 O
+ O
+
+空 O
+分 O
+技 B-Position
+术 M-Position
+经 M-Position
+理 E-Position
+的 O
+职 O
+位 O
+有 O
+吗 O
+？ O
+ O
+
+初 B-Position
+级 M-Position
+经 M-Position
+理 M-Position
+人 E-Position
+招 O
+聘 O
+ O
+
+销 B-Position
+管 E-Position
+ O
+
+项 B-Position
+目 M-Position
+经 M-Position
+理 E-Position
+或 O
+销 B-Position
+售 E-Position
+或 O
+规 B-Position
+划 E-Position
+ O
+
+建 B-Position
+筑 M-Position
+高 M-Position
+级 M-Position
+设 M-Position
+计 M-Position
+经 M-Position
+理 E-Position
+ O
+
+客 B-Position
+户 M-Position
+经 M-Position
+理 E-Position
+这 O
+个 O
+职 O
+位 O
+ O
+
+工 B-Position
+程 M-Position
+师 E-Position
+、 O
+项 B-Position
+目 M-Position
+经 M-Position
+理 E-Position
+ O
+
+龙 O
+湖 O
+锦 O
+宸 O
+天 O
+街 O
+招 O
+聘 O
+ O
+
+济 B-City
+南 E-City
+地 B-Position
+区 M-Position
+经 M-Position
+理 E-Position
+ O
+
+安 B-Position
+品 M-Position
+经 M-Position
+理 E-Position
+ O
+
+对 B-Position
+公 M-Position
+信 M-Position
+贷 M-Position
+客 M-Position
+户 M-Position
+经 M-Position
+理 E-Position
+ O
+
+有 O
+大 B-Position
+堂 M-Position
+经 M-Position
+理 E-Position
+职 O
+位 O
+吗 O
+ O
+
+有 O
+骑 B-Position
+手 E-Position
+吗 O
+ O
+
+有 O
+湖 B-Province
+北 E-Province
+孝 B-City
+感 E-City
+地 O
+区 O
+的 O
+嘛 O
+？ O
+ O
+
+销 O
+售 O
+部 O
+部 B-Position
+门 M-Position
+经 M-Position
+理 E-Position
+ O
+
+融 O
+资 O
+租 O
+赁 O
+项 B-Position
+目 M-Position
+经 M-Position
+理 E-Position
+（ O
+建 O
+设 O
+集 O
+团 O
+） O
+现 O
+在 O
+还 O
+招 O
+聘 O
+吗 O
+？ O
+ O
+
+有 O
+大 B-Position
+客 M-Position
+户 M-Position
+经 M-Position
+理 E-Position
+的 O
+职 O
+位 O
+。 O
+ O
+
+贵 O
+公 O
+司 O
+的 O
+产 B-Position
+品 M-Position
+经 M-Position
+理 E-Position
+ O
+
+你 O
+好 O
+， O
+打 O
+扰 O
+了 O
+， O
+想 O
+问 O
+一 O
+下 O
+是 O
+否 O
+招 O
+聘 O
+导 B-Position
+购 E-Position
+呢 O
+ O
+
+您 O
+好 O
+这 O
+个 O
+职 O
+位 O
+还 O
+有 O
+在 O
+招 O
+吗 O
+ O
+
+工 B-Position
+艺 M-Position
+操 M-Position
+作 M-Position
+员 E-Position
+有 O
+招 O
+聘 O
+吗 O
+ O
+
+请 O
+问 O
+贵 O
+公 O
+司 O
+目 O
+前 O
+招 O
+聘 O
+房 B-Position
+产 M-Position
+销 M-Position
+售 E-Position
+类 O
+的 O
+人 O
+员 O
+吗 O
+？ O
+ O
+
+有 O
+没 O
+有 O
+招 B-Position
+商 M-Position
+运 M-Position
+营 E-Position
+岗 O
+位 O
+ O
+
+d B-Position
+e M-Position
+s M-Position
+i M-Position
+g M-Position
+n M-Position
+  M-Position
+  M-Position
+e M-Position
+n M-Position
+g M-Position
+i M-Position
+n M-Position
+e M-Position
+e M-Position
+r E-Position
+这 O
+个 O
+职 O
+位 O
+还 O
+在 O
+招 O
+么 O
+ O
+
+昆 B-City
+明 E-City
+还 O
+在 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+有 O
+没 O
+有 O
+销 B-Position
+售 E-Position
+类 O
+的 O
+职 O
+位 O
+？ O
+ O
+
+有 O
+品 B-Position
+质 M-Position
+管 M-Position
+理 E-Position
+相 O
+关 O
+的 O
+吗 O
+ O
+
+请 O
+问 O
+现 O
+在 O
+h O
+m O
+还 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+商 O
+业 O
+中 O
+心 O
+营 O
+运 O
+ O
+
+丰 B-District
+顺 E-District
+麦 O
+当 O
+劳 O
+ O
+
+业 B-Position
+务 M-Position
+发 M-Position
+展 M-Position
+代 M-Position
+表 E-Position
+， O
+销 B-Position
+售 E-Position
+类 O
+， O
+我 O
+投 O
+递 O
+了 O
+份 O
+简 O
+历 O
+ O
+
+您 O
+好 O
+， O
+请 O
+问 O
+贵 O
+司 O
+还 O
+有 O
+销 B-Position
+售 E-Position
+类 O
+工 O
+作 O
+？ O
+ O
+
+之 O
+前 O
+是 O
+做 O
+汽 O
+车 O
+类 O
+的 O
+销 B-Position
+售 E-Position
+ O
+
+汕 B-City
+头 E-City
+工 O
+作 O
+ O
+
+请 O
+问 O
+销 B-Position
+售 E-Position
+部 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+麻 O
+烦 O
+问 O
+一 O
+下 O
+快 B-Position
+递 M-Position
+员 E-Position
+还 O
+招 O
+人 O
+吗 O
+ O
+
+您 O
+好 O
+， O
+请 O
+问 O
+一 O
+下 O
+您 O
+这 O
+边 O
+维 B-Position
+修 M-Position
+工 M-Position
+程 M-Position
+师 E-Position
+还 O
+招 O
+人 O
+吗 O
+ O
+
+您 O
+好 O
+！ O
+生 B-Position
+产 M-Position
+工 M-Position
+艺 M-Position
+操 M-Position
+作 M-Position
+员 E-Position
+还 O
+招 O
+人 O
+吗 O
+ O
+
+有 O
+没 O
+有 O
+法 B-Position
+律 E-Position
+相 O
+关 O
+岗 O
+位 O
+ O
+
+不 O
+好 O
+意 O
+思 O
+， O
+打 O
+扰 O
+您 O
+一 O
+下 O
+。 O
+请 O
+问 O
+建 B-Position
+筑 M-Position
+设 M-Position
+计 M-Position
+经 M-Position
+理 E-Position
+岗 O
+位 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+招 O
+医 B-Position
+生 E-Position
+职 O
+位 O
+吗 O
+ O
+
+您 O
+好 O
+， O
+请 O
+问 O
+a B-Position
+s M-Position
+s M-Position
+i M-Position
+s M-Position
+t M-Position
+a M-Position
+n M-Position
+t M-Position
+  M-Position
+m M-Position
+a M-Position
+r M-Position
+k M-Position
+e M-Position
+t M-Position
+  M-Position
+i M-Position
+n M-Position
+g M-Position
+  M-Position
+m M-Position
+a M-Position
+n M-Position
+a M-Position
+g M-Position
+e M-Position
+r E-Position
+， O
+目 O
+前 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+谢 O
+谢 O
+ O
+
+您 O
+好 O
+， O
+想 O
+请 O
+问 O
+一 O
+下 O
+软 B-Position
+件 M-Position
+测 M-Position
+试 E-Position
+这 O
+个 O
+岗 O
+位 O
+还 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+你 O
+好 O
+， O
+我 O
+想 O
+问 O
+下 O
+光 O
+谷 O
+广 O
+场 O
+那 O
+边 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+只 O
+要 O
+学 O
+生 O
+工 O
+吗 O
+？ O
+ O
+
+您 O
+好 O
+请 O
+问 O
+岗 O
+位 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+请 O
+问 O
+贵 O
+公 O
+司 O
+地 B-Position
+产 M-Position
+代 M-Position
+表 E-Position
+岗 O
+位 O
+现 O
+在 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+就 O
+是 O
+店 O
+里 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+您 O
+好 O
+， O
+请 O
+问 O
+一 O
+下 O
+该 O
+职 O
+位 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+你 O
+好 O
+你 O
+们 O
+店 O
+里 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+是 O
+的 O
+现 O
+在 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+请 O
+问 O
+现 O
+在 O
+还 O
+有 O
+市 B-Position
+场 E-Position
+和 O
+销 B-Position
+售 E-Position
+类 O
+地 O
+岗 O
+位 O
+么 O
+？ O
+ O
+
+品 B-Position
+类 M-Position
+运 M-Position
+营 E-Position
+ O
+
+策 B-Position
+划 M-Position
+经 M-Position
+理 E-Position
+ O
+
+证 B-Position
+券 E-Position
+类 O
+ O
+
+临 B-Position
+床 M-Position
+经 M-Position
+理 M-Position
+注 M-Position
+册 M-Position
+经 M-Position
+理 E-Position
+ O
+
+食 B-Position
+品 M-Position
+审 M-Position
+核 E-Position
+类 O
+ O
+
+你 O
+好 O
+， O
+你 O
+们 O
+公 O
+司 O
+有 O
+偏 O
+软 B-Position
+件 E-Position
+类 O
+的 O
+岗 O
+位 O
+吗 O
+？ O
+ O
+
+游 B-Position
+戏 M-Position
+传 M-Position
+媒 E-Position
+ O
+
+目 O
+前 O
+看 O
+没 O
+有 O
+相 O
+关 O
+岗 O
+位 O
+ O
+
+这 O
+个 O
+职 O
+位 O
+开 O
+放 O
+招 O
+聘 O
+了 O
+吗 O
+ O
+
+您 O
+好 O
+， O
+咨 O
+询 O
+一 O
+下 O
+咱 O
+公 O
+司 O
+现 O
+在 O
+有 O
+招 O
+聘 O
+机 B-Position
+械 E-Position
+类 O
+的 O
+岗 O
+位 O
+吗 O
+ O
+
+运 B-Position
+营 E-Position
+， O
+管 B-Position
+理 E-Position
+类 O
+ O
+
+景 B-Position
+观 M-Position
+设 M-Position
+计 M-Position
+经 M-Position
+理 E-Position
+ O
+
+营 B-Position
+销 M-Position
+经 M-Position
+理 E-Position
+呢 O
+ O
+
+请 O
+问 O
+有 O
+营 B-Position
+销 M-Position
+策 M-Position
+划 E-Position
+类 O
+的 O
+岗 O
+位 O
+吗 O
+ O
+
+你 O
+好 O
+， O
+请 O
+问 O
+有 O
+没 O
+有 O
+运 B-Position
+营 E-Position
+类 O
+的 O
+工 O
+作 O
+。 O
+ O
+
+你 O
+好 O
+， O
+可 O
+以 O
+跟 O
+您 O
+了 O
+解 O
+一 O
+下 O
+p B-Position
+r M-Position
+o M-Position
+j M-Position
+e M-Position
+c M-Position
+t M-Position
+  M-Position
+E M-Position
+H M-Position
+S M-Position
+  M-Position
+c M-Position
+o M-Position
+o M-Position
+r M-Position
+d M-Position
+i M-Position
+n M-Position
+a M-Position
+t M-Position
+o M-Position
+r E-Position
+这 O
+个 O
+岗 O
+位 O
+吗 O
+ O
+
+精 B-Position
+装 M-Position
+造 M-Position
+价 M-Position
+经 M-Position
+理 E-Position
+ O
+
+职 B-Position
+能 E-Position
+类 O
+或 O
+者 O
+运 B-Position
+营 E-Position
+ O
+
+柴 B-Position
+油 M-Position
+加 M-Position
+氢 M-Position
+班 M-Position
+长 E-Position
+ O
+
+普 B-Position
+通 M-Position
+操 M-Position
+作 M-Position
+工 E-Position
+ O
+
+请 O
+问 O
+， O
+是 O
+在 O
+招 O
+聘 O
+吗 O
+？ O
+ O
+
+大 B-Position
+客 M-Position
+户 M-Position
+经 M-Position
+理 E-Position
+大 B-Position
+客 M-Position
+户 M-Position
+经 M-Position
+理 E-Position
+ O
+
+你 O
+好 O
+请 O
+问 O
+常 B-City
+德 E-City
+万 O
+达 O
+h O
+m O
+招 O
+人 O
+吗 O
+ O
+
+督 B-Position
+导 M-Position
+部 M-Position
+总 M-Position
+监 E-Position
+。 O
+ O
+
+导 B-Position
+购 E-Position
+， O
+区 B-Position
+域 M-Position
+经 M-Position
+理 E-Position
+， O
+高 B-Position
+层 M-Position
+管 M-Position
+理 E-Position
+ O
+
+安 B-Position
+保 E-Position
+或 O
+物 B-Position
+业 M-Position
+经 M-Position
+理 E-Position
+ O
+
+您 O
+好 O
+， O
+我 O
+非 O
+常 O
+喜 O
+欢 O
+贵 O
+公 O
+司 O
+， O
+一 O
+直 O
+想 O
+加 O
+入 O
+， O
+请 O
+问 O
+有 O
+人 B-Position
+力 M-Position
+资 M-Position
+源 E-Position
+， O
+行 B-Position
+政 E-Position
+类 O
+工 O
+作 O
+岗 O
+位 O
+吗 O
+ O
+
+我 O
+要 O
+当 O
+地 B-Position
+区 M-Position
+经 M-Position
+理 E-Position
+ O
+
+资 B-Position
+深 M-Position
+开 M-Position
+发 M-Position
+员 E-Position
+， O
+或 O
+资 B-Position
+深 M-Position
+业 M-Position
+务 E-Position
+ O
+
+您 O
+好 O
+， O
+请 O
+问 O
+常 B-City
+州 E-City
+地 O
+区 O
+门 O
+店 O
+有 O
+全 B-Category
+职 E-Category
+岗 O
+位 O
+的 O
+空 O
+缺 O
+吗 O
+， O
+我 O
+可 O
+以 O
+来 O
+面 O
+试 O
+ O
+
+对 O
+， O
+导 B-Position
+购 E-Position
+之 O
+类 O
+的 O
+ O
+
+a O
+l O
+n O
+g O
+2 O
+目 O
+前 O
+结 B-Position
+构 E-Position
+还 O
+需 O
+要 O
+人 O
+嘛 O
+ O
+
+您 O
+好 O
+请 O
+问 O
+现 O
+在 O
+贵 O
+司 O
+招 O
+聘 O
+风 B-Position
+控 E-Position
+或 O
+者 O
+数 B-Position
+据 M-Position
+分 M-Position
+析 E-Position
+的 O
+岗 O
+位 O
+么 O
+？ O
+ O
+
+该 O
+职 O
+位 O
+还 O
+招 O
+人 O
+么 O
+ O
+
+您 O
+好 O
+请 O
+问 O
+h O
+m O
+还 O
+在 O
+招 O
+人 O
+吗 O
+ O
+
+机 B-Position
+电 M-Position
+经 M-Position
+理 E-Position
+或 O
+工 B-Position
+程 M-Position
+经 M-Position
+理 E-Position
+ O
+
+譬 O
+如 O
+数 B-Position
+据 M-Position
+分 M-Position
+析 M-Position
+师 E-Position
+之 O
+类 O
+的 O
+ O
+
+你 O
+好 O
+请 O
+问 O
+现 O
+在 O
+还 O
+招 O
+人 O
+吗 O
+人 O
+力 O
+资 O
+源 O
+方 O
+向 O
+的 O
+培 B-Position
+训 M-Position
+师 E-Position
+ O
+
+请 O
+问 O
+贵 B-City
+阳 E-City
+门 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+请 O
+问 O
+南 B-City
+宁 E-City
+万 O
+象 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+您 O
+好 O
+， O
+请 O
+问 O
+贵 O
+公 O
+司 O
+长 B-City
+沙 E-City
+地 O
+区 O
+还 O
+招 O
+C B-Position
+R M-Position
+A E-Position
+吗 O
+？ O
+? O
+ O
+
+义 B-City
+乌 E-City
+之 O
+心 O
+门 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+广 B-City
+州 E-City
+市 O
+花 B-District
+都 E-District
+区 O
+来 O
+又 O
+来 O
+那 O
+边 O
+招 O
+人 O
+吗 O
+ O
+
+您 O
+好 O
+， O
+我 O
+想 O
+咨 O
+询 O
+一 O
+下 O
+烟 B-City
+台 E-City
+招 O
+聘 O
+ O
+
+抚 B-City
+州 E-City
+有 O
+没 O
+有 O
+ O
+
+宜 B-City
+欣 E-City
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+成 B-City
+都 E-City
+的 O
+有 O
+没 O
+有 O
+吖 O
+ O
+
+广 B-City
+州 E-City
+市 O
+番 B-District
+禺 E-District
+区 O
+番 O
+禺 O
+广 O
+场 O
+， O
+h O
+m O
+工 O
+作 O
+介 O
+绍 O
+吗 O
+ O
+
+洛 B-City
+阳 E-City
+的 O
+h O
+m O
+不 O
+招 O
+聘 O
+吗 O
+； O
+ O
+
+请 O
+问 O
+八 O
+达 O
+岭 O
+奥 O
+莱 O
+招 O
+聘 O
+吗 O
+ O
+
+你 O
+好 O
+， O
+请 O
+问 O
+深 B-City
+圳 E-City
+宝 O
+安 O
+联 O
+投 O
+东 O
+方 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+全 B-Category
+职 E-Category
+ O
+
+许 B-City
+昌 E-City
+h O
+m O
+电 O
+招 O
+聘 O
+么 O
+ O
+
+请 O
+问 O
+抚 B-City
+顺 E-City
+h O
+m O
+店 O
+面 O
+还 O
+招 O
+聘 O
+吗 O
+ O
+
+你 O
+好 O
+开 B-City
+封 E-City
+地 O
+区 O
+h O
+m O
+现 O
+在 O
+还 O
+招 O
+人 O
+么 O
+ O
+
+数 B-Position
+据 M-Position
+分 M-Position
+析 E-Position
+， O
+市 B-Position
+场 E-Position
+类 O
+ O
+
+罗 O
+斯 O
+福 O
+广 O
+场 O
+h O
+m O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+你 O
+好 O
+我 O
+想 O
+请 O
+问 O
+下 O
+五 O
+路 O
+口 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+请 O
+问 O
+银 B-City
+川 E-City
+新 O
+华 O
+联 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+请 O
+问 O
+一 O
+下 O
+珠 B-City
+海 E-City
+华 O
+发 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+厦 B-City
+门 E-City
+s O
+m O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+蚌 B-City
+埠 E-City
+银 O
+泰 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+想 O
+问 O
+一 O
+下 O
+南 B-City
+宁 E-City
+西 O
+关 O
+朝 O
+阳 O
+广 O
+场 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+请 O
+问 O
+你 O
+们 O
+重 B-City
+庆 E-City
+南 O
+坪 O
+协 O
+信 O
+星 O
+光 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+您 O
+好 O
+， O
+繁 O
+花 O
+中 O
+心 O
+这 O
+个 O
+门 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+我 O
+想 O
+应 O
+聘 O
+全 B-Position
+职 E-Position
+店 O
+员 O
+。 O
+ O
+
+请 O
+问 O
+湖 B-City
+州 E-City
+爱 O
+山 O
+广 O
+场 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+你 O
+好 O
+， O
+请 O
+问 O
+昆 B-City
+明 E-City
+店 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+？ O
+？ O
+ O
+
+你 O
+好 O
+， O
+郑 B-City
+州 E-City
+区 O
+域 O
+小 O
+米 O
+之 O
+家 O
+的 O
+门 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+您 O
+好 O
+， O
+我 O
+想 O
+问 O
+下 O
+海 O
+蓝 O
+之 O
+谜 O
+呼 B-City
+和 M-City
+浩 M-City
+特 E-City
+店 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+上 B-City
+海 E-City
+， O
+上 B-City
+海 E-City
+有 O
+销 B-Position
+售 E-Position
+类 O
+的 O
+职 O
+位 O
+。 O
+ O
+
+请 O
+问 O
+北 B-City
+京 E-City
+公 O
+司 O
+销 B-Position
+售 M-Position
+管 M-Position
+理 E-Position
+岗 O
+还 O
+在 O
+招 O
+聘 O
+吗 O
+ O
+
+淄 B-City
+博 E-City
+银 O
+泰 O
+城 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+， O
+ O
+
+万 O
+达 O
+广 O
+场 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+您 O
+好 O
+我 O
+想 O
+请 O
+问 O
+一 O
+下 O
+西 B-City
+安 E-City
+大 O
+明 O
+宫 O
+万 O
+达 O
+H O
+& O
+M O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+现 O
+在 O
+重 B-City
+庆 E-City
+有 O
+没 O
+有 O
+在 O
+招 O
+客 B-Position
+服 M-Position
+管 M-Position
+家 E-Position
+呢 O
+ O
+
+你 O
+好 O
+， O
+我 O
+想 O
+问 O
+下 O
+现 O
+在 O
+广 B-City
+州 E-City
+H O
+& O
+M O
+都 O
+不 O
+招 O
+人 O
+了 O
+吗 O
+ O
+
+有 O
+天 B-City
+津 E-City
+的 O
+嘛 O
+？ O
+ O
+
+想 O
+请 O
+问 O
+一 O
+下 O
+现 O
+在 O
+中 B-City
+山 E-City
+的 O
+门 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+你 O
+好 O
+， O
+我 O
+住 O
+新 O
+塘 O
+这 O
+边 O
+， O
+刚 O
+在 O
+白 O
+江 O
+地 O
+铁 O
+站 O
+看 O
+到 O
+你 O
+们 O
+的 O
+招 O
+聘 O
+信 O
+息 O
+， O
+不 O
+知 O
+道 O
+白 O
+江 O
+站 O
+门 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+您 O
+好 O
+请 O
+问 O
+深 B-City
+圳 E-City
+龙 B-District
+岗 E-District
+这 O
+边 O
+有 O
+招 O
+聘 O
+吗 O
+ O
+
+广 B-City
+州 E-City
+麦 O
+当 O
+劳 O
+ O
+
+贵 B-City
+阳 E-City
+有 O
+销 O
+售 O
+职 O
+位 O
+空 O
+缺 O
+吗 O
+ O
+
+请 O
+问 O
+下 O
+大 B-City
+理 E-City
+下 O
+关 O
+这 O
+边 O
+还 O
+有 O
+职 O
+位 O
+空 O
+缺 O
+吗 O
+ O
+
+西 B-City
+安 E-City
+有 O
+职 O
+位 O
+空 O
+缺 O
+吗 O
+ O
+
+深 B-City
+圳 E-City
+公 O
+司 O
+置 B-Position
+业 M-Position
+顾 M-Position
+问 E-Position
+ O
+
+请 O
+问 O
+一 O
+下 O
+成 B-City
+都 E-City
+哪 O
+里 O
+还 O
+可 O
+以 O
+全 B-Category
+职 E-Category
+的 O
+职 O
+位 O
+呢 O
+ O
+
+我 O
+想 O
+找 O
+广 B-City
+州 E-City
+的 O
+职 O
+位 O
+ O
+
+您 O
+好 O
+， O
+请 O
+问 O
+贵 B-City
+阳 E-City
+元 O
+隆 O
+星 O
+力 O
+店 O
+还 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+在 O
+深 B-City
+圳 E-City
+的 O
+职 O
+位 O
+ O
+
+成 B-City
+都 E-City
+有 O
+合 O
+适 O
+的 O
+职 O
+位 O
+吗 O
+ O
+
+有 O
+广 B-Province
+东 E-Province
+的 O
+职 O
+位 O
+否 O
+？ O
+ O
+
+你 O
+好 O
+， O
+我 O
+看 O
+到 O
+微 O
+招 O
+聘 O
+里 O
+面 O
+有 O
+个 O
+城 B-Position
+市 M-Position
+主 M-Position
+管 E-Position
+的 O
+职 O
+位 O
+， O
+内 B-Province
+蒙 M-Province
+古 E-Province
+鄂 B-City
+尔 M-City
+多 M-City
+斯 E-City
+的 O
+， O
+还 O
+在 O
+招 O
+聘 O
+吗 O
+？ O
+ O
+
+目 O
+前 O
+还 O
+有 O
+西 B-City
+安 E-City
+有 O
+招 O
+聘 O
+岗 O
+位 O
+吗 O
+？ O
+ O
+
+深 B-City
+圳 E-City
+没 O
+有 O
+职 O
+位 O
+吗 O
+ O
+
+请 O
+问 O
+兰 B-City
+州 E-City
+中 O
+心 O
+h O
+m O
+还 O
+招 O
+人 O
+嘛 O
+ O
+
+请 O
+问 O
+一 O
+下 O
+珠 B-City
+海 E-City
+扬 O
+名 O
+广 O
+场 O
+的 O
+h O
+m O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+你 O
+好 O
+， O
+请 O
+问 O
+番 O
+禺 O
+万 O
+达 O
+h O
+m O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+我 O
+想 O
+问 O
+一 O
+下 O
+烟 B-City
+台 E-City
+大 O
+悦 O
+城 O
+h O
+m O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+义 B-City
+乌 E-City
+h O
+m O
+还 O
+招 O
+人 O
+吗 O
+ O
+
+您 O
+好 O
+我 O
+想 O
+问 O
+问 O
+合 B-City
+肥 E-City
+市 O
+有 O
+哪 O
+些 O
+区 O
+有 O
+h O
+m O
+还 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+重 B-City
+庆 E-City
+江 B-District
+北 E-District
+大 O
+石 O
+坝 O
+的 O
+h O
+m O
+还 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+青 B-District
+山 E-District
+这 O
+边 O
+有 O
+店 O
+招 O
+不 O
+ O
+
+汕 B-City
+头 E-City
+跟 O
+深 B-City
+圳 E-City
+地 O
+区 O
+有 O
+招 O
+吗 O
+？ O
+ O
+
+长 B-City
+沙 E-City
+要 O
+助 B-Position
+理 E-Position
+吗 O
+ O
+
+白 B-City
+城 E-City
+或 O
+者 O
+齐 B-City
+齐 M-City
+哈 M-City
+尔 E-City
+有 O
+吗 O
+？ O
+ O
+
+您 O
+好 O
+， O
+现 O
+在 O
+宝 B-District
+山 E-District
+招 O
+什 O
+么 O
+职 O
+位 O
+? O
+ O
+
+四 B-Province
+川 E-Province
+地 O
+区 O
+有 O
+公 O
+司 O
+职 O
+位 O
+相 O
+关 O
+信 O
+息 O
+吗 O
+ O
+
+5 O
+年 O
+销 O
+售 O
+经 O
+验 O
+， O
+有 O
+广 B-Province
+东 E-Province
+福 B-Province
+建 E-Province
+的 O
+职 O
+位 O
+空 O
+缺 O
+吗 O
+ O
+
+重 B-City
+庆 E-City
+有 O
+冠 O
+寓 O
+生 O
+在 O
+招 O
+吗 O
+ O
+
+广 B-City
+州 E-City
+地 O
+区 O
+的 O
+销 B-Position
+售 M-Position
+员 E-Position
+ O
+
+我 O
+想 O
+要 O
+厦 B-City
+门 E-City
+翔 B-District
+安 E-District
+区 O
+的 O
+职 O
+位 O
+ O
+
+邯 B-City
+郸 E-City
+的 O
+有 O
+嘛 O
+？ O
+ O
+
+应 O
+招 O
+北 B-City
+京 E-City
+大 B-Position
+区 M-Position
+经 M-Position
+理 E-Position
+可 O
+以 O
+吗 O
+？ O
+ O
+
+杭 B-City
+州 E-City
+有 O
+机 O
+会 O
+么 O
+？ O
+ O
+
+潍 B-City
+坊 E-City
+分 O
+公 O
+司 O
+有 O
+在 O
+招 O
+岗 O
+位 O
+么 O
+ O
+
+您 O
+好 O
+请 O
+问 O
+现 O
+在 O
+上 B-City
+海 E-City
+有 O
+门 O
+店 O
+招 O
+人 O
+吗 O
+ O
+
+上 B-City
+海 E-City
+岗 O
+位 O
+有 O
+吗 O
+ O
+
+长 B-City
+沙 E-City
+现 O
+在 O
+有 O
+分 O
+店 O
+招 O
+聘 O
+吗 O
+ O
+
+我 O
+现 O
+在 O
+在 O
+天 B-City
+津 E-City
+ O
+
+有 O
+山 B-Province
+东 E-Province
+菏 B-City
+泽 E-City
+的 O
+职 O
+位 O
+吗 O
+ O
+
+青 B-City
+岛 E-City
+有 O
+人 B-Position
+事 E-Position
+的 O
+招 O
+聘 O
+吗 O
+？ O
+ O
+
+上 B-City
+海 E-City
+有 O
+销 B-Position
+售 E-Position
+职 O
+位 O
+在 O
+招 O
+聘 O
+吗 O
+？ O
+ O
+
+四 B-Province
+川 E-Province
+地 O
+区 O
+有 O
+公 O
+司 O
+职 O
+位 O
+相 O
+关 O
+信 O
+息 O
+ O
+
+广 B-Province
+东 E-Province
+佛 B-City
+山 E-City
+顺 B-District
+德 E-District
+ O
+
+北 B-City
+京 E-City
+上 B-City
+海 E-City
+大 B-City
+连 E-City
+ O
+
+上 B-City
+海 E-City
+杭 B-City
+州 E-City
+南 B-City
+京 E-City
+ O
+
+您 O
+好 O
+我 O
+在 O
+寻 O
+找 O
+一 O
+份 O
+上 B-City
+海 E-City
+地 O
+区 O
+助 B-Position
+理 E-Position
+类 O
+以 O
+及 O
+关 O
+于 O
+活 B-Position
+动 M-Position
+执 M-Position
+行 E-Position
+类 O
+的 O
+工 O
+作 O
+ O
+
+请 O
+问 O
+昆 B-City
+明 E-City
+在 O
+招 O
+聘 O
+么 O
+？ O
+护 B-Position
+肤 E-Position
+类 O
+型 O
+的 O
+ O
+
+你 O
+好 O
+！ O
+你 O
+们 O
+泉 B-City
+州 E-City
+浦 O
+西 O
+万 O
+达 O
+还 O
+有 O
+招 O
+人 O
+吗 O
+？ O
+ O
+
+地 O
+点 O
+上 B-City
+海 E-City
+， O
+目 O
+前 O
+还 O
+去 O
+不 O
+了 O
+ O
+
+您 O
+好 O
+， O
+该 O
+职 O
+位 O
+是 O
+在 O
+上 B-City
+海 E-City
+上 O
+班 O
+的 O
+吗 O
+？ O
+ O
+
+给 O
+我 O
+推 O
+荐 O
+一 O
+个 O
+上 B-City
+海 E-City
+的 O
+工 O
+作 O
+吧 O
+ O
+
+有 O
+上 B-City
+海 E-City
+的 O
+嘛 O
+ O
+
+青 B-City
+岛 E-City
+， O
+济 B-City
+南 E-City
+， O
+上 B-City
+海 E-City
+ O
+
+上 B-City
+海 E-City
+五 O
+角 O
+场 O
+ O
+
+上 B-City
+海 E-City
+奉 B-District
+贤 E-District
+区 O
+ O
+
+渭 B-City
+南 E-City
+区 O
+域 O
+销 B-Position
+售 M-Position
+经 M-Position
+理 E-Position
+ O
+
+有 O
+上 B-City
+海 E-City
+徐 O
+家 O
+汇 O
+的 O
+职 O
+位 O
+吗 O
+ O
+
+我 O
+家 O
+住 O
+上 B-City
+海 E-City
+市 O
+杨 B-District
+浦 E-District
+区 O
+, O
+控 O
+江 O
+路 O
+ O
+
+我 O
+想 O
+问 O
+下 O
+目 O
+前 O
+上 B-City
+海 E-City
+市 B-Position
+场 E-Position
+部 O
+有 O
+空 O
+缺 O
+职 O
+位 O
+吗 O
+？ O
+ O
+
+上 B-City
+海 E-City
+职 O
+位 O
+招 O
+聘 O
+ O
+
+北 B-City
+京 E-City
+上 B-City
+海 E-City
+天 B-City
+津 E-City
+青 B-City
+岛 E-City
+南 B-City
+京 E-City
+ O
+
+北 B-City
+京 E-City
+， O
+上 B-City
+海 E-City
+， O
+天 B-City
+津 E-City
+， O
+青 B-City
+岛 E-City
+ O
+
+上 B-City
+海 E-City
+广 B-City
+州 E-City
+深 B-City
+圳 E-City
+杭 B-City
+州 E-City
+ O
+
+上 B-City
+海 E-City
+职 O
+位 O
+有 O
+吗 O
+ O
+
+我 O
+有 O
+三 O
+年 O
+经 O
+验 O
+， O
+在 O
+上 B-City
+海 E-City
+工 O
+作 O
+三 O
+年 O
+ O
+
+您 O
+好 O
+， O
+我 O
+想 O
+咨 O
+询 O
+一 O
+下 O
+贵 B-City
+阳 E-City
+宜 O
+家 O
+是 O
+否 O
+有 O
+培 B-Position
+训 M-Position
+讲 M-Position
+师 E-Position
+类 O
+的 O
+岗 O
+位 O
+招 O
+聘 O
+？ O
+ O
+
+我 O
+想 O
+看 O
+上 B-City
+海 E-City
+的 O
+医 B-Position
+学 E-Position
+类 O
+的 O
+岗 O
+位 O
+。 O
+ O
+
+深 B-City
+圳 E-City
+上 B-City
+海 E-City
+ O
+
+上 B-City
+海 E-City
+或 O
+香 B-City
+港 E-City
+ O
+
+澳 O
+新 O
+、 O
+成 B-City
+都 E-City
+、 O
+上 B-City
+海 E-City
+ O
+
+我 O
+想 O
+查 O
+看 O
+上 B-City
+海 E-City
+的 O
+职 O
+位 O
+。 O
+ O
+
+上 B-City
+海 E-City
+是 O
+否 O
+在 O
+招 O
+经 B-Position
+理 E-Position
+ O
+
+您 O
+好 O
+。 O
+深 B-City
+圳 E-City
+区 O
+域 O
+， O
+还 O
+有 O
+销 B-Position
+售 E-Position
+类 O
+职 O
+位 O
+吧 O
+？ O
+ O
+
+李 O
+先 O
+生 O
+: O
+您 O
+好 O
+！ O
+我 O
+想 O
+应 O
+聘 O
+廊 B-City
+坊 E-City
+地 O
+区 O
+前 B-Position
+期 M-Position
+开 M-Position
+发 E-Position
+或 O
+销 B-Position
+售 E-Position
+类 O
+的 O
+工 O
+作 O
+， O
+不 O
+知 O
+有 O
+没 O
+有 O
+适 O
+合 O
+的 O
+职 O
+位 O
+? O
+谢 O
+谢 O
+！ O
+ O
+
+请 O
+问 O
+长 B-City
+沙 E-City
+是 O
+否 O
+有 O
+销 B-Position
+售 E-Position
+类 O
+岗 O
+位 O
+? O
+ O
+
+上 B-City
+海 E-City
+有 O
+销 B-Position
+售 E-Position
+类 O
+工 O
+作 O
+吗 O
+ O
+
+我 O
+想 O
+找 O
+上 B-City
+海 E-City
+销 B-Position
+售 E-Position
+类 O
+职 O
+位 O
+ O
+
+在 O
+上 B-City
+海 E-City
+有 O
+销 B-Position
+售 E-Position
+类 O
+的 O
+职 O
+位 O
+吗 O
+。 O
+ O
+
+苏 B-City
+州 E-City
+上 B-City
+海 E-City
+ O
+
+来 O
+上 B-City
+海 E-City
+的 O
+ O
+
+上 B-City
+海 E-City
+， O
+江 B-Province
+苏 E-Province
+ O
+
+上 B-City
+海 E-City
+龙 O
+湖 O
+ O
+
+有 O
+上 B-City
+海 E-City
+的 O
+嘛 O
+？ O
+ O
+
+南 B-City
+京 E-City
+， O
+上 B-City
+海 E-City
+ O
+
+上 B-City
+海 E-City
+这 O
+边 O
+有 O
+职 O
+位 O
+吗 O
+ O
+
+沈 B-City
+阳 E-City
+南 B-City
+通 E-City
+上 B-City
+海 E-City
+ O
+
+北 B-City
+京 E-City
+， O
+上 B-City
+海 E-City
+， O
+深 B-City
+圳 E-City
+ O
+
+项 B-Position
+目 M-Position
+经 M-Position
+理 E-Position
+， O
+产 B-Position
+品 M-Position
+经 M-Position
+理 E-Position
+， O
+总 B-Position
+监 E-Position
+ O
+
+延 B-City
+吉 E-City
+市 O
+ O
+
+吉 B-Province
+林 E-Province
+省 O
+约 O
+ O
+
+在 O
+沈 B-City
+阳 E-City
+的 O
+工 O
+作 O
+岗 O
+位 O
+ O
+
+您 O
+好 O
+， O
+我 O
+想 O
+咨 O
+询 O
+一 O
+下 O
+西 B-City
+安 E-City
+现 O
+在 O
+招 O
+聘 O
+吗 O
+？ O
+ O
+
+合 B-City
+肥 E-City
+应 O
+聘 O
+ O
+
+邯 B-City
+郸 E-City
+在 O
+招 O
+吗 O
+ O
+
+问 O
+一 O
+下 O
+淮 B-City
+安 E-City
+这 O
+边 O
+还 O
+招 O
+吗 O
+ O
+
+镇 B-City
+江 E-City
+分 O
+公 O
+司 O
+ O
+
+我 O
+想 O
+在 O
+北 B-City
+京 E-City
+找 O
+一 O
+个 O
+岗 O
+位 O
+。 O
+ O
+
+你 O
+好 O
+昆 B-City
+明 E-City
+地 O
+区 O
+还 O
+在 O
+招 O
+聘 O
+销 B-Position
+售 E-Position
+吗 O
+ O
+
+你 O
+好 O
+， O
+请 O
+问 O
+贵 O
+司 O
+在 O
+广 B-Province
+西 E-Province
+有 O
+投 B-Position
+资 E-Position
+岗 O
+位 O
+招 O
+聘 O
+吗 O
+ O
+
+上 B-City
+海 E-City
+及 O
+周 O
+边 O
+地 O
+区 O
+ O
+
+商 O
+业 O
+东 O
+北 O
+区 O
+拓 B-Position
+展 M-Position
+经 M-Position
+理 E-Position
+岗 O
+位 O
+ O
+
+唐 B-City
+山 E-City
+项 O
+目 O
+有 O
+哪 O
+些 O
+招 O
+聘 O
+岗 O
+位 O
+？ O
+ O
+
+上 B-District
+虞 E-District
+h O
+m O
+招 O
+人 O
+吗 O
+ O
+
+郑 B-City
+州 E-City
+， O
+上 B-City
+海 E-City
+天 B-City
+津 E-City
+ O
+
+青 B-City
+岛 E-City
+工 O
+作 O
+ O
+
+武 B-City
+汉 E-City
+商 B-Position
+贸 E-Position
+ O
+
+新 B-City
+郑 E-City
+市 O
+龙 O
+湖 O
+镇 O
+ O
+
+四 B-City
+会 E-City
+市 O
+ O
+
+我 O
+居 O
+住 O
+地 O
+址 O
+是 O
+合 B-City
+肥 E-City
+市 O
+ O
+
+可 O
+以 O
+在 O
+呼 B-City
+市 E-City
+上 O
+班 O
+儿 O
+ O
+
+宜 B-City
+春 E-City
+市 O
+ O
+
+威 B-City
+海 E-City
+市 O
+ O
+
+天 B-City
+津 E-City
+市 O
+滨 B-District
+海 E-District
+新 O
+区 O
+中 O
+新 O
+生 O
+态 O
+城 O
+ O
+
+白 B-City
+银 E-City
+市 O
+ O
+
+你 O
+好 O
+我 O
+想 O
+问 O
+问 O
+丽 B-City
+水 E-City
+h O
+m O
+招 O
+寒 O
+假 O
+工 O
+吗 O
+ O
+
+晋 B-City
+江 E-City
+s O
+m O
+的 O
+h O
+m O
+还 O
+招 O
+全 B-Category
+职 E-Category
+吗 O
+ O
+
+需 O
+要 O
+天 B-City
+津 E-City
+市 O
+的 O
+职 O
+位 O
+ O
+
+南 B-City
+阳 E-City
+招 O
+的 O
+是 O
+市 O
+区 O
+， O
+还 O
+是 O
+县 O
+级 O
+区 O
+域 O
+ O
+
+你 O
+好 O
+。 O
+我 O
+想 O
+问 O
+问 O
+上 B-City
+海 E-City
+招 O
+聘 O
+的 O
+事 O
+ O
+
+上 B-City
+海 E-City
+香 B-City
+港 E-City
+厦 B-City
+门 E-City
+深 B-City
+圳 E-City
+ O
+
+我 O
+需 O
+要 O
+长 B-City
+春 E-City
+的 O
+工 O
+作 O
+ O
+
+长 B-City
+春 E-City
+地 O
+区 O
+的 O
+ O
+
+松 B-City
+原 E-City
+， O
+长 B-City
+春 E-City
+ O
+
+长 B-City
+春 E-City
+， O
+谢 O
+谢 O
+！ O
+ O
+
+长 B-City
+春 E-City
+有 O
+招 O
+聘 O
+职 O
+位 O
+吗 O
+ O
+
+请 O
+问 O
+有 O
+长 B-City
+春 E-City
+市 O
+内 O
+的 O
+岗 O
+位 O
+吗 O
+ O
+
+长 B-City
+春 E-City
+在 O
+招 O
+人 O
+么 O
+ O
+
+我 O
+在 O
+深 B-City
+圳 E-City
+， O
+你 O
+们 O
+在 O
+深 B-City
+圳 E-City
+有 O
+没 O
+有 O
+开 O
+放 O
+M B-Position
+a M-Position
+r M-Position
+k M-Position
+e M-Position
+t M-Position
+i M-Position
+n M-Position
+g E-Position
+或 O
+S B-Position
+a M-Position
+l M-Position
+e M-Position
+s E-Position
+类 O
+的 O
+岗 O
+位 O
+？ O
+ O
+
+请 O
+问 O
+长 B-City
+春 E-City
+地 O
+区 O
+招 O
+聘 O
+什 O
+么 O
+职 O
+位 O
+ O
+
+长 B-City
+春 E-City
+还 O
+招 O
+聘 O
+么 O
+ O
+
+我 O
+是 O
+一 O
+个 O
+电 O
+气 O
+盘 O
+厂 O
+自 O
+动 O
+化 O
+技 O
+术 O
+， O
+熟 O
+悉 O
+西 O
+门 O
+子 O
+， O
+施 O
+耐 O
+德 O
+， O
+A O
+B O
+的 O
+P O
+L O
+C O
+选 O
+型 O
+、 O
+编 O
+程 O
+及 O
+调 O
+试 O
+， O
+做 O
+过 O
+项 O
+目 O
+前 O
+期 O
+方 O
+案 O
+选 O
+型 O
+， O
+询 O
+价 O
+， O
+做 O
+技 O
+术 O
+标 O
+等 O
+， O
+请 O
+问 O
+贵 O
+公 O
+司 O
+在 O
+成 O
+都 O
+还 O
+有 O
+项 O
+目 O
+前 O
+期 O
+技 B-Position
+术 M-Position
+支 M-Position
+持 E-Position
+类 O
+的 O
+岗 O
+位 O
+吗 O
+ O
+
+你 O
+好 O
+请 O
+问 O
+长 B-City
+春 E-City
+有 O
+哪 O
+些 O
+岗 O
+位 O
+ O
+
+莆 B-City
+田 E-City
+闽 O
+西 O
+销 B-Position
+售 M-Position
+经 M-Position
+理 E-Position
+还 O
+有 O
+在 O
+招 O
+吗 O
+？ O
+ O
+
+济 B-City
+南 E-City
+的 O
+业 B-Position
+务 M-Position
+交 M-Position
+付 M-Position
+助 M-Position
+理 E-Position
+ O
+
+泰 B-City
+安 E-City
+现 O
+在 O
+招 O
+人 O
+吗 O
+ O
+
+宜 B-City
+宾 E-City
+店 O
+还 O
+在 O
+招 O
+人 O
+吗 O
+ O
+
+希 O
+望 O
+能 O
+找 O
+到 O
+东 B-City
+莞 E-City
+的 O
+h O
+m O
+实 O
+体 O
+店 O
+工 O
+作 O
+机 O
+会 O
+啦 O
+ O
+
+湖 B-Province
+北 E-Province
+孝 B-City
+感 E-City
+还 O
+招 O
+销 B-Position
+售 M-Position
+员 E-Position
+吗 O
+ O
+
+吉 B-Province
+林 E-Province
+省 O
+只 O
+有 O
+长 B-City
+春 E-City
+市 O
+有 O
+招 O
+聘 O
+信 O
+息 O
+吗 O
+ O
+
+您 O
+好 O
+！ O
+长 B-City
+春 E-City
+有 O
+招 O
+吗 O
+？ O
+ O
+
+天 B-City
+津 E-City
+欧 O
+乐 O
+店 O
+招 O
+人 O
+？ O
+ O
+
+上 B-City
+海 E-City
+& O
+n O
+b O
+s O
+p O
+; O
+北 B-City
+京 E-City
+& O
+n O
+b O
+s O
+p O
+; O
+深 B-City
+圳 E-City
+ O
+
+有 O
+在 O
+长 B-City
+春 E-City
+的 O
+职 O
+位 O
+吗 O
+？ O
+ O
+
+长 B-City
+沙 E-City
+， O
+上 B-City
+海 E-City
+ O
+
+这 O
+个 O
+职 O
+位 O
+是 O
+在 O
+衡 B-City
+阳 E-City
+上 O
+班 O
+， O
+还 O
+是 O
+在 O
+上 B-City
+海 E-City
+上 O
+班 O
+
